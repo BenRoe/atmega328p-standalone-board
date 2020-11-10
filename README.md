@@ -16,5 +16,6 @@ It's also very handy to flash the bootloader on many Atmega328P IC's.
   
 <img src="img/atmega328p-standalone-by-benroe-front.jpg" height=400> <img src="img/atmega328p-standalone-by-benroe-back.jpg" height=400>
 
+- [Schematic](schematic.pdf)
 - [BOM](http://htmlpreview.github.io/?https://github.com/BenRoe/atmega328p-standalone-board/blob/master/bom/ibom.html)
 - [Gerber files](gerber/328p-standalone-rev1.0.zip) (ready to use)
