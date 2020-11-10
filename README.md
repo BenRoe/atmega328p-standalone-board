@@ -1,8 +1,8 @@
 
 # 328p-Standalone-TH
 
-A only through hole components development board for the Atmega328P with USB-C connector.  
-It's also very handy to flash the bootloader on many Atmega328P IC's.
+Development board for the Atmega328P with USB-C connector and only through hole components.  
+It's very handy to flash the bootloader on many Atmega328P IC's.
 
 <img src="img/atmega328p-standalone-by-benroe-side.jpg">
 
