@@ -19,3 +19,6 @@ It's also very handy to flash the bootloader on many Atmega328P IC's.
 - [Schematic](schematic.pdf)
 - [BOM](http://htmlpreview.github.io/?https://github.com/BenRoe/atmega328p-standalone-board/blob/master/bom/ibom.html)
 - [Gerber files](gerber/328p-standalone-rev1.0.zip) (ready to use)
+
+## License
+[![CC4](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
